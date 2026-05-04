@@ -4,7 +4,7 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
-AESD_ASSIGNMENTS_VERSION = 'c3f931c86084efa00c3447b092751fa9f190c790'
+AESD_ASSIGNMENTS_VERSION = '9ccbdb2923e9503cb3472af5b0257a42636d1cc6'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/Programs_for_Server_and_Device_Driver.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
